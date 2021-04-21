@@ -3,8 +3,12 @@
     <img src="https://raw.githubusercontent.com/GuilhermeSanchesS/Podcastr_NLW5/main/public/Capa.png"  alt="Podcastr" />
   </a>
 </p>
-
 <h1 align="center">Podcastr</h1>
+<p align="center">
+  <a href="https://github.com/GuilhermeSanchesS/">
+    <img src="https://raw.githubusercontent.com/GuilhermeSanchesS/Podcastr_NLW5/main/public/favicon.png"  alt="Logo Podcastr" />
+  </a>
+</p>
 <p align="center">Projeto realizado durante a aulas Next Level Week #5 by Rocketseat - Trilha React</p>
 
 <p align="center">
